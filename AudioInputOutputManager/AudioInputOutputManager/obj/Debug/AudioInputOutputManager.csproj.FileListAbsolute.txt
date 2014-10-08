@@ -1,0 +1,46 @@
+C:\Users\telemed\Documents\Visual Studio 2012\Projects\AudioInputOutputManager\AudioInputOutputManager\bin\Debug\AudioInputOutputManager.exe.config
+C:\Users\telemed\Documents\Visual Studio 2012\Projects\AudioInputOutputManager\AudioInputOutputManager\bin\Debug\AudioInputOutputManager.exe
+C:\Users\telemed\Documents\Visual Studio 2012\Projects\AudioInputOutputManager\AudioInputOutputManager\bin\Debug\AudioInputOutputManager.pdb
+C:\Users\telemed\Documents\Visual Studio 2012\Projects\AudioInputOutputManager\AudioInputOutputManager\obj\Debug\AudioInputOutputManager.Properties.Resources.resources
+C:\Users\telemed\Documents\Visual Studio 2012\Projects\AudioInputOutputManager\AudioInputOutputManager\obj\Debug\AudioInputOutputManager.csproj.GenerateResource.Cache
+C:\Users\telemed\Documents\Visual Studio 2012\Projects\AudioInputOutputManager\AudioInputOutputManager\obj\Debug\AudioInputOutputManager.exe
+C:\Users\telemed\Documents\Visual Studio 2012\Projects\AudioInputOutputManager\AudioInputOutputManager\obj\Debug\AudioInputOutputManager.pdb
+C:\Users\telemed\Documents\Visual Studio 2012\Projects\AudioInputOutputManager\AudioInputOutputManager\obj\Debug\AudioInputOutputManager.csprojResolveAssemblyReference.cache
+C:\Users\tugay\Documents\AudioInputOutputManager\AudioInputOutputManager\AudioInputOutputManager\bin\Debug\AudioInputOutputManager.exe.config
+C:\Users\tugay\Documents\AudioInputOutputManager\AudioInputOutputManager\AudioInputOutputManager\obj\Debug\AudioInputOutputManager.exe
+C:\Users\tugay\Documents\AudioInputOutputManager\AudioInputOutputManager\AudioInputOutputManager\obj\Debug\AudioInputOutputManager.pdb
+C:\Users\tugay\Documents\AudioInputOutputManager\AudioInputOutputManager\AudioInputOutputManager\bin\Debug\AudioInputOutputManager.exe
+C:\Users\tugay\Documents\AudioInputOutputManager\AudioInputOutputManager\AudioInputOutputManager\bin\Debug\AudioInputOutputManager.pdb
+C:\Users\tugay\Documents\AudioInputOutputManager\AudioInputOutputManager\AudioInputOutputManager\bin\Debug\CoreAudioApi.dll
+C:\Users\tugay\Documents\AudioInputOutputManager\AudioInputOutputManager\AudioInputOutputManager\bin\Debug\NAudio.dll
+C:\Users\tugay\Documents\AudioInputOutputManager\AudioInputOutputManager\AudioInputOutputManager\obj\Debug\AudioInputOutputManager.csprojResolveAssemblyReference.cache
+C:\Users\tugay\Documents\AudioInputOutputManager\AudioInputOutputManager\AudioInputOutputManager\obj\Debug\AudioInputOutputManager.Properties.Resources.resources
+C:\Users\tugay\Documents\AudioInputOutputManager\AudioInputOutputManager\AudioInputOutputManager\obj\Debug\AudioInputOutputManager.csproj.GenerateResource.Cache
+C:\Users\telemed-Dell\Desktop\AudioInputOutputManager - Kopya - Kopya\AudioInputOutputManager\AudioInputOutputManager\bin\Debug\AudioInputOutputManager.exe.config
+C:\Users\telemed-Dell\Desktop\AudioInputOutputManager - Kopya - Kopya\AudioInputOutputManager\AudioInputOutputManager\bin\Debug\AudioInputOutputManager.exe.manifest
+C:\Users\telemed-Dell\Desktop\AudioInputOutputManager - Kopya - Kopya\AudioInputOutputManager\AudioInputOutputManager\bin\Debug\AudioInputOutputManager.application
+C:\Users\telemed-Dell\Desktop\AudioInputOutputManager - Kopya - Kopya\AudioInputOutputManager\AudioInputOutputManager\bin\Debug\AudioInputOutputManager.exe
+C:\Users\telemed-Dell\Desktop\AudioInputOutputManager - Kopya - Kopya\AudioInputOutputManager\AudioInputOutputManager\bin\Debug\AudioInputOutputManager.pdb
+C:\Users\telemed-Dell\Desktop\AudioInputOutputManager - Kopya - Kopya\AudioInputOutputManager\AudioInputOutputManager\bin\Debug\CoreAudioApi.dll
+C:\Users\telemed-Dell\Desktop\AudioInputOutputManager - Kopya - Kopya\AudioInputOutputManager\AudioInputOutputManager\bin\Debug\NAudio.dll
+C:\Users\telemed-Dell\Desktop\AudioInputOutputManager - Kopya - Kopya\AudioInputOutputManager\AudioInputOutputManager\obj\Debug\AudioInputOutputManager.MainForm.resources
+C:\Users\telemed-Dell\Desktop\AudioInputOutputManager - Kopya - Kopya\AudioInputOutputManager\AudioInputOutputManager\obj\Debug\AudioInputOutputManager.Properties.Resources.resources
+C:\Users\telemed-Dell\Desktop\AudioInputOutputManager - Kopya - Kopya\AudioInputOutputManager\AudioInputOutputManager\obj\Debug\AudioInputOutputManager.csproj.GenerateResource.Cache
+C:\Users\telemed-Dell\Desktop\AudioInputOutputManager - Kopya - Kopya\AudioInputOutputManager\AudioInputOutputManager\obj\Debug\AudioInputOutputManager.exe.manifest
+C:\Users\telemed-Dell\Desktop\AudioInputOutputManager - Kopya - Kopya\AudioInputOutputManager\AudioInputOutputManager\obj\Debug\AudioInputOutputManager.application
+C:\Users\telemed-Dell\Desktop\AudioInputOutputManager - Kopya - Kopya\AudioInputOutputManager\AudioInputOutputManager\obj\Debug\AudioInputOutputManager.exe
+C:\Users\telemed-Dell\Desktop\AudioInputOutputManager - Kopya - Kopya\AudioInputOutputManager\AudioInputOutputManager\obj\Debug\AudioInputOutputManager.pdb
+C:\Users\telemed-Dell\Desktop\AudioInputOutputManager - Cem\AudioInputOutputManager - Kopya - Kopya\AudioInputOutputManager\AudioInputOutputManager\bin\Debug\AudioInputOutputManager.exe.config
+C:\Users\telemed-Dell\Desktop\AudioInputOutputManager - Cem\AudioInputOutputManager - Kopya - Kopya\AudioInputOutputManager\AudioInputOutputManager\obj\Debug\AudioInputOutputManager.exe
+C:\Users\telemed-Dell\Desktop\AudioInputOutputManager - Cem\AudioInputOutputManager - Kopya - Kopya\AudioInputOutputManager\AudioInputOutputManager\obj\Debug\AudioInputOutputManager.pdb
+C:\Users\telemed-Dell\Desktop\AudioInputOutputManager - Cem\AudioInputOutputManager - Kopya - Kopya\AudioInputOutputManager\AudioInputOutputManager\bin\Debug\AudioInputOutputManager.exe.manifest
+C:\Users\telemed-Dell\Desktop\AudioInputOutputManager - Cem\AudioInputOutputManager - Kopya - Kopya\AudioInputOutputManager\AudioInputOutputManager\bin\Debug\AudioInputOutputManager.application
+C:\Users\telemed-Dell\Desktop\AudioInputOutputManager - Cem\AudioInputOutputManager - Kopya - Kopya\AudioInputOutputManager\AudioInputOutputManager\bin\Debug\AudioInputOutputManager.exe
+C:\Users\telemed-Dell\Desktop\AudioInputOutputManager - Cem\AudioInputOutputManager - Kopya - Kopya\AudioInputOutputManager\AudioInputOutputManager\bin\Debug\AudioInputOutputManager.pdb
+C:\Users\telemed-Dell\Desktop\AudioInputOutputManager - Cem\AudioInputOutputManager - Kopya - Kopya\AudioInputOutputManager\AudioInputOutputManager\bin\Debug\CoreAudioApi.dll
+C:\Users\telemed-Dell\Desktop\AudioInputOutputManager - Cem\AudioInputOutputManager - Kopya - Kopya\AudioInputOutputManager\AudioInputOutputManager\bin\Debug\NAudio.dll
+C:\Users\telemed-Dell\Desktop\AudioInputOutputManager - Cem\AudioInputOutputManager - Kopya - Kopya\AudioInputOutputManager\AudioInputOutputManager\obj\Debug\AudioInputOutputManager.MainForm.resources
+C:\Users\telemed-Dell\Desktop\AudioInputOutputManager - Cem\AudioInputOutputManager - Kopya - Kopya\AudioInputOutputManager\AudioInputOutputManager\obj\Debug\AudioInputOutputManager.Properties.Resources.resources
+C:\Users\telemed-Dell\Desktop\AudioInputOutputManager - Cem\AudioInputOutputManager - Kopya - Kopya\AudioInputOutputManager\AudioInputOutputManager\obj\Debug\AudioInputOutputManager.csproj.GenerateResource.Cache
+C:\Users\telemed-Dell\Desktop\AudioInputOutputManager - Cem\AudioInputOutputManager - Kopya - Kopya\AudioInputOutputManager\AudioInputOutputManager\obj\Debug\AudioInputOutputManager.exe.manifest
+C:\Users\telemed-Dell\Desktop\AudioInputOutputManager - Cem\AudioInputOutputManager - Kopya - Kopya\AudioInputOutputManager\AudioInputOutputManager\obj\Debug\AudioInputOutputManager.application
