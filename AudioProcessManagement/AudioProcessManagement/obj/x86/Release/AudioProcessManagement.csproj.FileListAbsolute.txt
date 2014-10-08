@@ -1,0 +1,16 @@
+c:\users\tugay\documents\visual studio 2012\Projects\AudioProcessManagement\AudioProcessManagement\bin\x86\Release\AudioProcessManagement.exe.config
+c:\users\tugay\documents\visual studio 2012\Projects\AudioProcessManagement\AudioProcessManagement\bin\x86\Release\AudioProcessManagement.exe
+c:\users\tugay\documents\visual studio 2012\Projects\AudioProcessManagement\AudioProcessManagement\bin\x86\Release\AudioProcessManagement.pdb
+c:\users\tugay\documents\visual studio 2012\Projects\AudioProcessManagement\AudioProcessManagement\obj\x86\Release\AudioProcessManagement.csprojResolveAssemblyReference.cache
+c:\users\tugay\documents\visual studio 2012\Projects\AudioProcessManagement\AudioProcessManagement\obj\x86\Release\AudioProcessManagement.Properties.Resources.resources
+c:\users\tugay\documents\visual studio 2012\Projects\AudioProcessManagement\AudioProcessManagement\obj\x86\Release\AudioProcessManagement.csproj.GenerateResource.Cache
+c:\users\tugay\documents\visual studio 2012\Projects\AudioProcessManagement\AudioProcessManagement\obj\x86\Release\AudioProcessManagement.exe
+c:\users\tugay\documents\visual studio 2012\Projects\AudioProcessManagement\AudioProcessManagement\obj\x86\Release\AudioProcessManagement.pdb
+C:\Users\telemed-Dell\Desktop\AudioInputOutputManager - Kopya - Kopya\AudioProcessManagement\AudioProcessManagement\bin\x86\Release\AudioProcessManagement.exe.config
+C:\Users\telemed-Dell\Desktop\AudioInputOutputManager - Kopya - Kopya\AudioProcessManagement\AudioProcessManagement\obj\x86\Release\AudioProcessManagement.exe
+C:\Users\telemed-Dell\Desktop\AudioInputOutputManager - Kopya - Kopya\AudioProcessManagement\AudioProcessManagement\obj\x86\Release\AudioProcessManagement.pdb
+C:\Users\telemed-Dell\Desktop\AudioInputOutputManager - Kopya - Kopya\AudioProcessManagement\AudioProcessManagement\bin\x86\Release\AudioProcessManagement.exe
+C:\Users\telemed-Dell\Desktop\AudioInputOutputManager - Kopya - Kopya\AudioProcessManagement\AudioProcessManagement\bin\x86\Release\AudioProcessManagement.pdb
+C:\Users\telemed-Dell\Desktop\AudioInputOutputManager - Kopya - Kopya\AudioProcessManagement\AudioProcessManagement\obj\x86\Release\AudioProcessManagement.csprojResolveAssemblyReference.cache
+C:\Users\telemed-Dell\Desktop\AudioInputOutputManager - Kopya - Kopya\AudioProcessManagement\AudioProcessManagement\obj\x86\Release\AudioProcessManagement.Properties.Resources.resources
+C:\Users\telemed-Dell\Desktop\AudioInputOutputManager - Kopya - Kopya\AudioProcessManagement\AudioProcessManagement\obj\x86\Release\AudioProcessManagement.csproj.GenerateResource.Cache
