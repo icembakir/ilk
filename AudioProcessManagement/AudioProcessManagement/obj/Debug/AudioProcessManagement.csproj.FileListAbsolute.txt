@@ -1,8 +1,0 @@
-c:\users\tugay\documents\visual studio 2012\Projects\AudioProcessManagement\AudioProcessManagement\bin\Debug\AudioProcessManagement.exe.config
-c:\users\tugay\documents\visual studio 2012\Projects\AudioProcessManagement\AudioProcessManagement\bin\Debug\AudioProcessManagement.exe
-c:\users\tugay\documents\visual studio 2012\Projects\AudioProcessManagement\AudioProcessManagement\bin\Debug\AudioProcessManagement.pdb
-c:\users\tugay\documents\visual studio 2012\Projects\AudioProcessManagement\AudioProcessManagement\obj\Debug\AudioProcessManagement.csprojResolveAssemblyReference.cache
-c:\users\tugay\documents\visual studio 2012\Projects\AudioProcessManagement\AudioProcessManagement\obj\Debug\AudioProcessManagement.Properties.Resources.resources
-c:\users\tugay\documents\visual studio 2012\Projects\AudioProcessManagement\AudioProcessManagement\obj\Debug\AudioProcessManagement.csproj.GenerateResource.Cache
-c:\users\tugay\documents\visual studio 2012\Projects\AudioProcessManagement\AudioProcessManagement\obj\Debug\AudioProcessManagement.exe
-c:\users\tugay\documents\visual studio 2012\Projects\AudioProcessManagement\AudioProcessManagement\obj\Debug\AudioProcessManagement.pdb
